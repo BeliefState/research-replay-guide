@@ -1,8 +1,9 @@
 ---
 title: Replaying an investment thesis
+image: https://beliefstate.github.io/research-replay-guide/beliefstate-social-preview-v15.jpg
 ---
 
-Published by BeliefState LLC
+<img src="./beliefstate-icon-bone.png" alt="" width="40" height="40"> Published by BeliefState LLC
 
 A point-in-time replay asks what your research system could have known at a particular date. It starts with the source as it appeared then and keeps later updates out of the earlier decision.
 
